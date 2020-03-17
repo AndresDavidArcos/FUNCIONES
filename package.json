@@ -1,0 +1,25 @@
+{
+  "name": "github",
+  "version": "0.0.1",
+  "description": "Clase de fdp uwu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresDavidArcos/FUNCIONES.git"
+  },
+  "keywords": [ 
+    "fdp"
+  ],
+  "author": "Andres David Camargo Arcos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndresDavidArcos/FUNCIONES/issues"
+  },
+  "homepage": "https://github.com/AndresDavidArcos/FUNCIONES#readme",
+  "dependencies": {
+    "functional-light": "^0.3.1"
+  }
+}
